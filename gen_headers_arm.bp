@@ -644,6 +644,7 @@ gen_headers_out_arm = [
     "linux/wmi.h",
     "linux/x25.h",
     "linux/xattr.h",
+    "linux/xdp_diag.h",
     "linux/xfrm.h",
     "linux/xilinx-v4l2-controls.h",
     "linux/zorro.h",
