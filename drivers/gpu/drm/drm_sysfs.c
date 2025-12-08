@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 
 /*
  * drm_sysfs.c - Modifications to drm_sysfs_class.c to support
